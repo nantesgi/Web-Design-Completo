@@ -5,3 +5,5 @@ In these projects were applied several concepts of HTML and CSS, focusing mainly
 
 Link to purchase the course: https://www.udemy.com/course/curso-web-design-fundamentos-aprenda-html-css-e-javascript/
 
+Calculadora (HTML + CSS + pure JS)
+<img src="ProjetoCalculadora.png">
