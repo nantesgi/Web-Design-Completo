@@ -14,4 +14,5 @@ Link to purchase the course: https://www.udemy.com/course/curso-web-design-funda
 <h3>Strata (HTML + CSS + pure JS on forms)</h3>
 <img src="ProjetoStrata.png">
 <br>
+<h3>Range Hotels (HTML + CSS + pure JS on forms)</h3>
 <img src="ProjetoRangeHotels.png"
